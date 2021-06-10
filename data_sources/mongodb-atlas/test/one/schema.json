@@ -1,0 +1,11 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "job": {
+            "bsonType": "string"
+        }
+    },
+    "title": "one"
+}

@@ -1,0 +1,17 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "grades": {
+            "bsonType": "array",
+            "items": {
+                "bsonType": "int"
+            }
+        },
+        "test": {
+            "bsonType": "string"
+        }
+    },
+    "title": "afcoll"
+}
